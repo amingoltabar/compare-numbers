@@ -16,7 +16,7 @@ for i in range(6):
     else:
         smallcount+=1
 print('average is',ave)
-print('Number of numbers which are bigger than average :',bigcount)
+print('Number of numbers which are greater than average :',bigcount)
 print('Number of numbers which are smaller than average :',smallcount)
 print('Number of numbers which are equal to average :',equalcount)
                  
